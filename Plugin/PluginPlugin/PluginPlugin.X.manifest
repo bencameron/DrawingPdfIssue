@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="PluginPlugin" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{8b51a94d-49bc-4910-9a1f-54090a53691d}" progid="PluginPlugin.PluginServer" threadingModel="Both" name="PluginPlugin.PluginServer"></clrClass>
+  <file name="PluginPlugin.dll" hashalg="SHA1"></file>
+</assembly>

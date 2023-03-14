@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Plugin">
+  <ClassId>{8b51a94d-49bc-4910-9a1f-54090a53691d}</ClassId>
+  <ClientId>{8b51a94d-49bc-4910-9a1f-54090a53691d}</ClientId>
+  <DisplayName>PluginPlugin</DisplayName>
+  <Description>a PluginPlugin</Description>
+  <Assembly>PluginPlugin.dll</Assembly>
+</Addin>
